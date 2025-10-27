@@ -57,8 +57,6 @@ body {
   padding: 0 30px 30px;
 }
 
-
-
 .text-align {
   text-align: center;
 }
@@ -75,6 +73,10 @@ body {
   padding: 16px;
   background-color: #462cb3;
   text-decoration: none;
+}
+
+.insta-embeds {
+  margin-top: 30px;
 }
 
 section {
