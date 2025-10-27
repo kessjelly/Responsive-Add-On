@@ -10,7 +10,7 @@ body {
 
 .grid {
   display: grid;
-  grid-gap: 20px;
+  grid-gap: 40px;
 }
 
 .grid-3-col {
@@ -190,7 +190,7 @@ footer {
     url("/images/footer.jpg");
   background-size: cover;
   background-repeat: no-repeat;
-  padding: 100px 0;
+  padding: 100px 100px;
 }
 
 footer h4 {
