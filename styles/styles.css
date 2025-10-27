@@ -34,6 +34,10 @@ body {
   margin: 30px 0;
 }
 
+.card-header {
+  text-align: left;
+}
+
 .card-body {
   padding: 30px;
 }
@@ -43,10 +47,9 @@ body {
 }
 
 .img-responsive {
-  width: 185px;
+   width: 185px;
   height: 185px;
-  max-width: 100%;
-  display: block;
+  display: inline-block;
 }
 
 .text-align {
