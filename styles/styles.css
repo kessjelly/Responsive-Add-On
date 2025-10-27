@@ -1,7 +1,11 @@
 h1 {
-    font-family: "Poppins", sans-serif;
-    font-weight: bold;
-    font-size: 96px;
-    line-height: 100%;
-    font-weight: 700;
+  font-family: "Poppins", sans-serif;
+  font-weight: bold;
+  font-size: 96px;
+  line-height: 100%;
+  font-weight: 700;
+}
+
+h2 {
+  font-family: "Poppins", sans-serif;
 }
